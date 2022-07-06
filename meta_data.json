@@ -1,0 +1,14 @@
+{
+    "categories": {
+        "0": "productivity",
+        "1": "technical",
+        "2": "small business"
+    },
+    "demo_page": "https://bubble.io/page?type=page&name=index&id=neumorphism-application",
+    "description": "With Neomorphism you can create bevel effects in your application. To implement this plugin, first turn on the ID attribute on Settings\n\n📄  https://bubble.io/page?type=page&name=index&id=neumorphism-application",
+    "image": "//s3.amazonaws.com/appforest_uf/f1655878473450x278531858376584350/Screenshot%202022-06-21%20at%2016.58.18.png",
+    "license": "open_source",
+    "link": "https://bubble.io/page?type=page&name=index&id=neumorphism-application",
+    "name": "Neumorphism Bevel effect",
+    "plugin_instructions": "1 - Create with https://neumorphism.io/\n2 - set background colour\n3 - implement"
+}

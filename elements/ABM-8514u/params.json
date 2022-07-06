@@ -1,0 +1,38 @@
+{
+    "add_is_visible": true,
+    "category": "visual elements",
+    "default_dim": {
+        "height": 50,
+        "width": 300
+    },
+    "display": "NeumorphismSettings",
+    "fields": {
+        "ABN": {
+            "caption": "CSS code",
+            "default_val": "border-radius: 50px; background: #f9fbe5; box-shadow:  20px 20px 60px #d4d5c3,              -20px -20px 60px #ffffff;",
+            "doc": "neumorphism.io",
+            "editor": "DynamicValue",
+            "name": "cssProperties",
+            "rank": 0,
+            "value": "text"
+        },
+        "ABO": {
+            "caption": "Bevel Name",
+            "default_val": "bevelEffect1",
+            "doc": "Give the name of your effect",
+            "editor": "StaticText",
+            "in_style": false,
+            "name": "bevelname",
+            "rank": 1
+        },
+        "ABP": {
+            "caption": "bevelelementid",
+            "default_val": "bevelcontainer,bevelcontainer2",
+            "doc": "What elements will be effected",
+            "editor": "StaticText",
+            "name": "bevelelementid",
+            "rank": 2
+        }
+    },
+    "icon": "ion-android-color-palette"
+}

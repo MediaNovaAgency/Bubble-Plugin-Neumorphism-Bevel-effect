@@ -1,0 +1,40 @@
+{
+    "category": "plugins",
+    "display": "Neumorphism - Create Bevel (developer)",
+    "fields": {
+        "AAG": {
+            "caption": "Give effect name",
+            "default_val": "bevelEffect1",
+            "doc": "No spaces allowed",
+            "editor": "StaticText",
+            "long_text": false,
+            "name": "bevelname",
+            "rank": 2
+        },
+        "AAH": {
+            "caption": "With this action you can create and assign the bevel effect to elements.",
+            "editor": "Label",
+            "name": "header-info",
+            "rank": 0
+        },
+        "AAI": {
+            "caption": "Elements ID",
+            "default_val": "bevelcontainer,bevelcontainer2",
+            "doc": "",
+            "editor": "StaticText",
+            "name": "bevelelementid",
+            "rank": 1
+        },
+        "ABG": {
+            "caption": "CSS Properties from neumorphism.io",
+            "default_val": "border-radius: 50px;   background: #b95b5b;   box-shadow: 20px 20px 60px #9d4d4d, -20px -20px 60px #d56969;",
+            "doc": "Insert here the textbox from https://neumorphism.io/#e0e0e0",
+            "editor": "DynamicValue",
+            "long_text": true,
+            "name": "cssProperties",
+            "rank": 3,
+            "value": "text"
+        }
+    },
+    "type": "client_side"
+}
